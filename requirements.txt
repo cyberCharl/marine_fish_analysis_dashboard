@@ -14,4 +14,7 @@ python-dotenv
 scikit-learn
 tqdm
 typer
+kagglehub
+seaborn
+statsmodels
 -e .

@@ -4,7 +4,7 @@
 
 PROJECT_NAME = marine_fish_analysis_dashboard
 PYTHON_VERSION = 3.13.1
-PYTHON_INTERPRETER = python
+PYTHON_INTERPRETER = python3
 
 #################################################################################
 # COMMANDS                                                                      #
